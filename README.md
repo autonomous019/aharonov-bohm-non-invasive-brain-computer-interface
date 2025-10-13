@@ -1,4 +1,4 @@
-# aharnov-bohm-non-invasive-brain-computer-interface
+# aharonov-bohm-non-invasive-brain-computer-interface
 Code and Documents to build out a non-invasive brain computer interface using the Aharnov-Bohm Effect
 
 
