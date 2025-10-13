@@ -2,6 +2,33 @@
 Code and Documents to build out a non-invasive brain computer interface using the Aharnov-Bohm Effect
 
 
+<blockquote>We propose a novel brain–computer interface (BCI) architecture leveraging the quantum Aharonov–
+Bohm (AB) effect to achieve non-contact neural sensing and stimulation. Theoretical foundations of the
+AB effect in the Standard Model are reviewed, emphasizing how electromagnetic vector potentials (𝐀-
+fields) can induce phase shifts in charged particles without local fields, enabling phase-based quantum
+sensing. We explain how an AB-based sensor can detect cortical electromagnetic activity remotely by
+measuring phase shifts induced by the brain’s vector potential, with no direct energy exchange .
+The AB sensor design by Chase et al. (Lockheed Martin) is analyzed in depth: an electron interferometer
+with a field-free enclosure that registers minuscule phase modulations due to ambient potentials .
+We detail the sensor’s architecture, signal path, detection principle, and fundamental sensitivity limits,
+noting that a potential of order 1 nV can produce a π/2 phase shift in microseconds – six orders of
+magnitude more sensitivity than classical electromagnetic sensors . A complete hardware blueprint
+for an AB-BCI system is presented, integrating quantum sensor tiles (e.g. Rydberg atom electrometers,
+nitrogen-vacancy diamond magnetometers, optically pumped magnetometers) for multi-modal field
+detection, AB-driven 𝐀-field shaping arrays for stealth neuromodulation, control electronics, and safety
+interlocks. We develop a signal processing model comprising quantum interference demodulation,
+source current inversion, adaptive filtering, phase-coherence analysis, and closed-loop stimulation
+scheduling. Defense and national security implications are discussed, including stealth neural
+monitoring (covert mind-reading at distance), battlefield cognitive augmentation for warfighters,
+operator–vehicle neural coupling, and cybersecurity of neuro-quantum channels. Dual-use
+opportunities in medicine and human performance are outlined alongside a technology maturation
+roadmap. Results from theoretical modeling and prior art are presented to validate the feasibility: the
+AB sensor’s phase response scales with source potential and inversely with distance , offering high
+SNR detection of neural signals without disturbing them . We conclude that an AB-effect BCI
+could fundamentally surpass traditional EEG/MEG in sensitivity and stealth, though significant
+engineering challenges remain in coherence maintenance, integration, and ethical deployment</blockquote>
+
+
 
 ## Table of Contents
 - <a href="#theory">The Aharonov–Bohm Effect in Biological Systems</a>
