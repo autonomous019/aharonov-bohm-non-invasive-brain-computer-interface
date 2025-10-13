@@ -461,6 +461,11 @@ https://www.researchgate.net/publication/
 
 ## "Utilizing AB sensor 100, innermost electronics signals may be sensed from well protected hardware, which may be hundreds of miles away. Furthermore, AB sensor 100 may be so sensitive that it can detect waves emanating from a human's nerve system. Thus, a person’s mind may be read without the person realizing it. Based on the direction and strength of a signal, distribution of currents (e.g., thoughts) in the brain can be mapped out" pg. 10, line 49-54 of Patent US 8,389,948 B2
 
+
+![AB Sensor Diagram 8 from Patent](fig8-US9943698.png)
+
+
+
 <a href="__Aharonov–Bohm Effect Based Brain–Computer Interface for Defense Applications__.pdf">Proposal for a Brain Computer Interface based on AB Sensor, non-invasive and non-contact neural sensing</a>
 
 
