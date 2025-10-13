@@ -12,7 +12,7 @@ The AB sensor design by Chase et al. (Lockheed Martin) is analyzed in depth: an 
 with a field-free enclosure that registers minuscule phase modulations due to ambient potentials .
 We detail the sensor’s architecture, signal path, detection principle, and fundamental sensitivity limits,
 noting that a potential of order 1 nV can produce a π/2 phase shift in microseconds – six orders of
-magnitude more sensitivity than classical electromagnetic sensors . A complete hardware blueprint
+magnitude more sensitivity than classical electromagnetic sensors (10^6 or 1 million times more resolution) . A complete hardware blueprint
 for an AB-BCI system is presented, integrating quantum sensor tiles (e.g. Rydberg atom electrometers,
 nitrogen-vacancy diamond magnetometers, optically pumped magnetometers) for multi-modal field
 detection, AB-driven 𝐀-field shaping arrays for stealth neuromodulation, control electronics, and safety
