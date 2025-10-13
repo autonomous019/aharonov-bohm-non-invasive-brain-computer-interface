@@ -5,7 +5,7 @@ Code and Documents to build out a non-invasive brain computer interface using th
 
 ## Table of Contents
 - [The Aharonov–Bohm Effect in Biological Systems](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface#theory)
-- [AB Sensor](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface#sensor)
+- [AB Sensor](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface/#sensor)
 
 
 
@@ -455,7 +455,7 @@ https://www.researchgate.net/publication/
 
 ## <div id="#sensor">AB Sensor</div>
 
-<h1>Lockheed Martin Patent that proposes reading minds via the AB Effect</h1>
+<h1>Lockheed Martin Patent that proposes reading brain neurons and mapping brain state via the AB Effect</h1>
 
 
 ## "Utilizing AB sensor 100, innermost electronics signals may be sensed from well protected hardware, which may be hundreds of miles away. Furthermore, AB sensor 100 may be so sensitive that it can detect waves emanating from a human's nerve system. Thus, a person’s mind may be read without the person realizing it. Based on the direction and strength of a signal, distribution of currents (e.g., thoughts) in the brain can be mapped out" pg. 10, line 49-54 of Patent US 8,389,948 B2
