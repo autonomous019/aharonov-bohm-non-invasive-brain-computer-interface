@@ -4,8 +4,9 @@ Code and Documents to build out a non-invasive brain computer interface using th
 
 
 ## Table of Contents
-- [The Aharonov–Bohm Effect in Biological Systems](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface#theory)
-- [AB Sensor](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface/#sensor)
+- <a href="#theory">The Aharonov–Bohm Effect in Biological Systems</a>
+- <a href="#sensor">The Aharonov–Bohm Sensor Patent</a>
+
 
 
 
