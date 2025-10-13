@@ -4,13 +4,13 @@ Code and Documents to build out a non-invasive brain computer interface using th
 
 
 ## Table of Contents
-- [The Aharonov–Bohm Effect in Biological Systems](#The Aharonov–Bohm Effect in Biological Systems)
-- [AB Sensor](#AB Sensor)
+- [The Aharonov–Bohm Effect in Biological Systems](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface/edit/main/README.md#theory)
+- [AB Sensor](https://github.com/autonomous019/aharnov-bohm-non-invasive-brain-computer-interface/edit/main/README.md#sensor)
 
 
 
 
-## The Aharonov–Bohm Effect in Biological Systems
+## <div id="theory">The Aharonov–Bohm Effect in Biological Systems</div>
 ## Phase, Coherence, and Vector Potentials
 
 ### Extracted Summary
@@ -453,7 +453,7 @@ https://www.researchgate.net/publication/
 9
 
 
-## AB Sensor
+## <div id="#sensor">AB Sensor</div>
 
 <h1>Lockheed Martin Patent that proposes reading minds via the AB Effect</h1>
 
