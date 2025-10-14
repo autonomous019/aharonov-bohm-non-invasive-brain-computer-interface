@@ -745,7 +745,7 @@ HANCEMENT OF HUMAN PERFORMANCE’ in ‘Converging Technologies
 for Improving Human Performance NANOTECHNOLOGY, BIOTECHNOLOGY, INFORMATION
 TECHNOLOGY AND COGNITIVE SCIENCE’ NSF/DOC-sponsored report Edited by Mihail C. Roco and
 William Sims Bainbridge National Science Foundation 2003 Kluwer Academic Publishers (currently Springer)
-Dordrecht, The Netherlands. http://www.wtec.org/ConvergingTechnologies/Report/NBIC_report.pdf (accessed 6/2/19)
+Dordrecht, The Netherlands. [http://www.wtec.org/ConvergingTechnologies/Report/NBIC_report.pdf](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/bioecon-%28%23%20023SUPP%29%20NSF-NBIC.pdf?utm_source=chatgpt.com) 
 2. Asher, R. (2003). *Non-Drug Treatments for Enhancement of Human Performance.* In Roco & Bainbridge (Eds.), NBIC Report, pp. 355–357. Sandia National Laboratories.  
 3. Armin, M. J., & Chase, D. R. (2012). *Aharonov–Bohm Effect Sensor.* US Patent 8,389,948.  
 4. Chase, D. R. (2018). *Quantum Interference Communication System Utilizing AB Effect.* US Patent 9,943,698.  
