@@ -7,6 +7,9 @@ Code and Documents to build out a non-invasive brain computer interface using th
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true"></a>
 
 
+<h2>BCI Synopsis:</h2>
+
+
 <blockquote>We propose a novel brain–computer interface (BCI) architecture leveraging the quantum Aharonov–
 Bohm (AB) effect to achieve non-contact neural sensing and stimulation. Theoretical foundations of the
 AB effect in the Standard Model are reviewed, emphasizing how electromagnetic vector potentials (𝐀-
@@ -33,6 +36,8 @@ SNR detection of neural signals without disturbing them . We conclude that an AB
 could fundamentally surpass traditional EEG/MEG in sensitivity and stealth, though significant
 engineering challenges remain in coherence maintenance, integration, and ethical deployment</blockquote>
 
+
+---
 
 
 ## Table of Contents
