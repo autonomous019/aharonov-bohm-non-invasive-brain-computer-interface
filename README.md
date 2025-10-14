@@ -660,7 +660,7 @@ Although primarily a physics demonstrator, the underlying principle can inform f
 
 ### 1. Executive Summary
 
-The convergence of nanotechnology, biotechnology, information technology, and cognitive science (NBIC) represented a seminal framework introduced by the National Science Foundation (NSF) and the U.S. Department of Commerce in 2003. Its objective was to unify diverse scientific domains toward human performance enhancement, cognitive augmentation, and new modes of human-machine symbiosis. 
+The convergence of <a href="https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/bioecon-%28%23%20023SUPP%29%20NSF-NBIC.pdf?utm_source=chatgpt.com">nanotechnology, biotechnology, information technology, and cognitive science (NBIC)</a> represented a seminal framework introduced by the National Science Foundation (NSF) and the U.S. Department of Commerce in 2003. Its objective was to unify diverse scientific domains toward human performance enhancement, cognitive augmentation, and new modes of human-machine symbiosis. 
 
 This document extends the NBIC paradigm through the lens of the Aharonov–Bohm (AB) phase effect and its embodiment in the Armin–Chase AB sensor design. Specifically, it explores the potential for *non-contact, phase-based brain–computer interfaces (BCIs)* grounded in measurable vector potentials and quantum interference phenomena, as opposed to classical electrophysiological coupling. The system design integrates Robert Asher’s proposals for electromagnetic human performance enhancement (Sandia Labs, 2003) with AB-based phase measurement, aligning cognitive neuroengineering with quantum field frameworks.
 
@@ -740,7 +740,12 @@ The integration of quantum sensors into neurotechnology also mandates strict adh
 
 ### 8. References
 
-1. Roco, M. C., & Bainbridge, W. S. (Eds.). (2003). *Converging Technologies for Improving Human Performance: Nanotechnology, Biotechnology, Information Technology and Cognitive Science (NBIC)*. NSF / Department of Commerce.  
+1. Roco, M. C., & Bainbridge, W. S. (Eds.). (2003). *Converging Technologies for Improving Human Performance: Nanotechnology, Biotechnology, Information Technology and Cognitive Science (NBIC)*. NSF / Department of Commerce.  Asher, Robert, Sandia National Labs, (2003) ‘NON-DRUG TREATMENTS FOR EN-
+HANCEMENT OF HUMAN PERFORMANCE’ in ‘Converging Technologies
+for Improving Human Performance NANOTECHNOLOGY, BIOTECHNOLOGY, INFORMATION
+TECHNOLOGY AND COGNITIVE SCIENCE’ NSF/DOC-sponsored report Edited by Mihail C. Roco and
+William Sims Bainbridge National Science Foundation 2003 Kluwer Academic Publishers (currently Springer)
+Dordrecht, The Netherlands. http://www.wtec.org/ConvergingTechnologies/Report/NBIC_report.pdf (accessed 6/2/19)
 2. Asher, R. (2003). *Non-Drug Treatments for Enhancement of Human Performance.* In Roco & Bainbridge (Eds.), NBIC Report, pp. 355–357. Sandia National Laboratories.  
 3. Armin, M. J., & Chase, D. R. (2012). *Aharonov–Bohm Effect Sensor.* US Patent 8,389,948.  
 4. Chase, D. R. (2018). *Quantum Interference Communication System Utilizing AB Effect.* US Patent 9,943,698.  
