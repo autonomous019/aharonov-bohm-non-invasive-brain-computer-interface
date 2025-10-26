@@ -43,7 +43,7 @@ engineering challenges remain in coherence maintenance, integration, and ethical
 ## Table of Contents
 - <a href="#sensor">The Aharonov–Bohm Sensor Patent</a>
 - <a hre="#bci">The Aharonov-Bohm Brain Computer Interface</a>
-- <a href="https://github.com/autonomous019/aharonov-bohm-non-invasive-brain-computer-interface/ab_sensor_budget_request.pdf">Low Cost AB Budget Request (US$12k)</a>
+- <a href="https://github.com/autonomous019/aharonov-bohm-non-invasive-brain-computer-interface/blob/main/ab_sensor_budget_request.pdf">Low Cost AB Budget Request (US$12k)</a>
 
 
 
